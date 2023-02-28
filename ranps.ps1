@@ -1,4 +1,4 @@
-$inputString = "http://dbp-east-kv-bannerwebapi.azurekv.com/currentversion"
+$inputString = "http://efasfs.azurekv.com/currentversion"
 $pattern = "dbp"
 $stopCharacter = "."
 
